@@ -1,0 +1,12 @@
+{   "Garbage Collector": {"pay": 2000, "req_level": 1},
+    "Discord Mod": {"pay": -1, "req_level": 3 },
+    "Nurse": {"pay": 3000, "req_level": 5},
+    "Doctor": {"pay": 5000, "req_level": 7},
+    "Software Enginner": {"pay": 8000, "req_level": 10},
+    "Frontend Developer": {"pay": -69, "req_level": 13},
+    "Backend Developer": {"pay": 10000, "req_level": 20},
+    "AI/ML Developer": {"pay": 15000, "req_level": 30},
+    "Pilot": {"pay": 17000, "req_level": 31},
+    "Santa Claus": {"pay": 20000, "req_level": 50},
+    "Fucken Rat dogef": {"pay": 31, "req_level": 51}
+}

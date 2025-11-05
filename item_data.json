@@ -1,0 +1,36 @@
+{
+    "Apple": {
+        "Value": 1000,
+        "description": "You like juicy apples, don't you?.",
+        "use": {"xp_buff": 1.2, "duration": 900}
+    },
+    "Banana": {
+        "Value": 2000,
+        "description": "The only fruit you deserve, like an ape.",
+        "use": {"amount_buff": 1.5, "duration": 900}
+    },
+    "Carrot": {
+        "Value": 1500,
+        "description": "Good for your eyesight, but not for your brain, not like you have it anyways.",
+        "use": {"xp_buff": 1.1, "amount_buff": 1.1, "duration": 600}
+    },
+    "Worm": {
+        "Value": 200,
+        "description": "Eww, who would buy this disgusting thing? Oh wait, you probably would.",
+        "use": {"xp_buff": 0.9, "duration": 300}
+    },
+    "Ant": {
+        "Value": 50,
+        "description": "Even though its small, it's more efficient and useful than you.",
+        "use": {"amount_buff": 1.05, "duration": 600}
+    },
+    "Sand": {"Value": 10, "description": "Just a bunch of tiny rocks, much like your brain.", "use": null},
+    "Dirt": {"Value": 5, "description": "Perfect for planting your non-existent brain cells.", "use": null},
+    "Golden Nugget": {
+        "Value": 40000,
+        "description": "Shiny and valuable, unlike you.",
+        "use": {"amount_buff": 2, "duration": 600}
+    },
+    "Shovel": {"Value": 50000, "description": "You wanna dig like cavemen, huh?", "use": null},
+    "Bank Note": {"Value": 20000, "description": "You need more bank space, huh?", "use": null}
+}

@@ -1,0 +1,36 @@
+{
+    "670213544431714324": {
+        "pocket": 0,
+        "level": 1,
+        "xp": 250,
+        "inventory": {
+            "Apple": 3
+        },
+        "bank": 0,
+        "bank_limit": 6000,
+        "job": "None",
+        "last_worked": 0,
+        "last_daily": 1762200863.788382,
+        "buffs": {
+            "xp": [],
+            "coin": []
+        }
+    },
+    "981644603008634920": {
+        "pocket": 11000,
+        "level": 1,
+        "xp": 40,
+        "inventory": {
+            "Apple": 3
+        },
+        "bank": 0,
+        "bank_limit": 2000,
+        "job": "None",
+        "last_worked": 0,
+        "last_daily": 1762201022.2586567,
+        "buffs": {
+            "xp": [],
+            "coin": []
+        }
+    }
+}
